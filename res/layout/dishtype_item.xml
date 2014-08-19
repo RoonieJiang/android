@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/dishtype_name"
+        android:layout_width="match_parent"
+    	android:layout_height="50dip"
+    	android:textSize="16sp"
+    	android:text="菜系"
+    	android:gravity="center"/>
+	<TextView
+	    android:id="@+id/dishtype_count"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:textSize="14sp"
+    	android:layout_marginTop="3dip"
+    	android:textColor="@color/white"
+    	android:gravity="center"
+    	android:background="@drawable/dishtype_ordernumber_bg"
+    	android:text="1"
+    	android:textStyle="bold"
+    	android:layout_gravity="right|top"/>
+</FrameLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="green">#ff008800</color>
+	<color name="white">#ffffffff</color>
+	<color name="transparent">#00000000</color>
+	<color name="gray">#969696</color>
+	<color name="black">#ff000000</color>
+	<color name="lightgray">#eeaaaaaa</color>
+	<color name="darkgray">#99333333</color>
+	<color name="hint_color">#ffc0c0c0</color>
+	<color name="blue">#ff0000ff</color>
+	<color name="back_gd_color">#f2f2f2</color>
+	<color name="darkblue">#ff3E5E00</color>
+	<color name="red">#FF0000</color>
+	<color name="yellow">#FFD700</color>
+	
+	<color name="radio_bg_n">#F0EDE8</color>
+	<color name="radio_bg_c">#C30A0A</color>
+</resources>
